@@ -5,7 +5,7 @@
       "root": "./",
       "webDir": "dist",
       "dependencyInstallCommand": "npm install",
-      "buildCommand": "npm run build && npx cap sync ios"
+      "buildCommand": "chmod +x scripts/build-ios.sh && ./scripts/build-ios.sh"
     }
   ]
 }

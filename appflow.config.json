@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "appId": "d53cd738",
+      "appId": "336f210f",
       "root": "./",
       "webDir": "dist",
       "dependencyInstallCommand": "npm install",
